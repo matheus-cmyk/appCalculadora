@@ -30,7 +30,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
     ```bash
-    git clone (https://github.com/matheus-cmyk/AppHamburguer)
+    git clone (https://github.com/matheus-cmyk/appCalculadora) 
 
     ```
 
@@ -41,54 +41,27 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ```bash
 ├── app
-
-
 │   ├── src
-
-
 │   │   ├── main
-
-
 │   │   │   ├──
-java/com/example/imccalculator
-
-
 │   │   │  
 │   ├── MainActivity.java      
-# Atividade principal com cálculo do IMC
-
-
 │   │   │   ├──
 res
-
-
 │   │   │  
 │   ├── layout
-
-
 │   │   │  
 │   │   ├── activity_main.xml   #
 Layout da tela principal
-
-
 │   │   │  
 │   └── values
-
-
 │   │   │  
-│       ├──
-strings.xml         # Strings usadas no
+│       ├──strings.xml         # Strings usadas no
 app
-
-
 │   │   │  
 │       ├── colors.xml          # Cores definidas no projeto
-
-
 │   └── build.gradle                        # Configuração do
 Gradle
-
-
 └── README.md                               # Este arquivo
 
  
